@@ -1,0 +1,2 @@
+127.0.0.1 - - [24/Jul/2012:04:28:48 -0700] "GET / HTTP/1.1" 200 42 "http://wiki.basho.com/Webmachine-Quickstart.html" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.19 (KHTML, like Gecko) Ubuntu/11.10 Chromium/18.0.1025.168 Chrome/18.0.1025.168 Safari/535.19"
+127.0.0.1 - - [24/Jul/2012:04:28:48 -0700] "GET /favicon.ico HTTP/1.1" 404 193 "" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.19 (KHTML, like Gecko) Ubuntu/11.10 Chromium/18.0.1025.168 Chrome/18.0.1025.168 Safari/535.19"
